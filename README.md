@@ -26,4 +26,4 @@ $ yarn start
 
 ## License
 
-MIT © [103cuong](https://github.com/103cuong)
+MIT © [cuongndc9](https://github.com/cuongndc9)
